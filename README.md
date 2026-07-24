@@ -13,6 +13,9 @@ Building educational software, web applications, and AI-assisted learning experi
 </div>
 
 ---
+<p align="center">
+  <img src="github-banner.png" alt="Melissa Joyce Banner" width="100%">
+</p>
 
 # 👋 Hello!
 
